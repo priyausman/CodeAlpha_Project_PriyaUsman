@@ -1,2 +1,2 @@
 # CodeAlpha_Project_PriyaUsman
-these are my project made during codealpha internship
+This repository contains the projects i created during my internship at CodeAlpha in 2025.
